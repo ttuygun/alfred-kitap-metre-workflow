@@ -6,7 +6,7 @@ This alfred workflow shows kitapmetre.com's (the best book price search engine) 
 
 # Usage
 km keyword continues with book name.
-* ie zero to one
+* km zero to one
 
 Script created by Tarık Taha Uygun
 
